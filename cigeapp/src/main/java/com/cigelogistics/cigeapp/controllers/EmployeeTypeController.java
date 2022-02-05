@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.kindsonthegenius.fleetms.models.EmployeeType;
-import com.kindsonthegenius.fleetms.services.EmployeeTypeService;
+import com.cigelogistics.cigeapp.models.EmployeeType;
+import com.cigelogistics.cigeapp.services.EmployeeTypeService;
 
 @Controller
 public class EmployeeTypeController {
