@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
-
 import com.cigelogistics.cigeapp.models.State;
 import com.cigelogistics.cigeapp.services.CountryService;
 import com.cigelogistics.cigeapp.services.StateService;
